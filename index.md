@@ -227,29 +227,29 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
   Board member (Communication Officer) at ASIS&T Special Interest Group for Social Media (2020 - 2021)
 
-- **Ad hoc journal reviewer**
+- **Ad hoc journal reviewer** 
 
-​      *Journal of the Association for Information Science and Technology* (*JASIST*)
+  *Journal of the Association for Information Science and Technology* (*JASIST*)
 
-​     *Aslib Journal of Information Management*
+  *Aslib Journal of Information Management*
 
-​     *Behaviour & Information Technology*
+  *Behaviour & Information Technology*
 
-​     *Computers in Human Behavior*
+  Computers in Human Behavior
 
-​     *Information Processing & Management*
+  *Information Processing & Management*
 
-​     *Information Technology & People*
+  *Information Technology & People*
 
-​     *Internet Research*
+  *Internet Research*
 
-​     *Knowledge Management Research & Practice*
+  *Knowledge Management Research & Practice*
 
-​     *Journal of Advertising*
+  *Journal of Advertising*
 
-​     *Journal of Interactive Advertising*
+  *Journal of Interactive Advertising*
 
-​     *Journal of Consumer Behaviour*
+  *Journal of Consumer Behaviour*
 
 - **Ad hoc conference reviewer**
 
@@ -285,9 +285,9 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 - **Technical Program Committee Member**
 
-​     International Conference on Information Management (ICIM): 2022
+  International Conference on Information Management (ICIM): 2022
 
-​     European Advanced Educational Technology Conference (EAET): 2022
+  European Advanced Educational Technology Conference (EAET): 2022
 
 ### Awards & Honors
 
