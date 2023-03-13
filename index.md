@@ -53,7 +53,7 @@ Email: [xiaoyu-chen@shu](mailto:xiaoyu-chen@shu.edu.cn)[.edu.cn](mailto:xiaoyu-c
 <div align="left">
         <strong> Nanyang Technological University, Singapore (Aug 2017 - Dec 2021) </strong>
           <a href="https://www.ntu.edu.sg/" target="_blank" rel="external">
-            <img border="0" src="ntu.png" align="right" width="70" height="66">
+            <img border="0" src="ntu.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
@@ -68,7 +68,7 @@ advisor), Joanna Sin (member), and Ben Choi (member)</li>
 <div align="left">
         <strong> Wuhan University, China (Aug 2013 - Dec 2016) </strong>
           <a href="http://en.whu.edu.cn/" target="_blank" rel="external">
-            <img border="0" src="whu.png" align="right" width="70" height="66">
+            <img border="0" src="whu.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
@@ -81,7 +81,7 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 <div align="left">
         <strong> Huazhong Agricultural University, China (Sep 2009 - Jun 2013) </strong>
           <a href="http://www.hzau.edu.cn/en/HOME.htm" target="_blank" rel="external">
-            <img border="0" src="hzau.png" align="right" width="70" height="66">
+            <img border="0" src="hzau.png" align="right" width="70" height="70">
           </a> 
         <ul>
         <li>
@@ -128,15 +128,15 @@ and Transferring Mechanism in a Social Q&A Community”</li>
 
 - **Chen, X\*.** (forthcoming). I[nvestigating users’ sustained information seeking on academic social networking sites](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1108%2FAJIM-04-2022-0219&sa=D&sntz=1&usg=AOvVaw3NSNEGq2cFPg6wk8ummj-P). ***Aslib Journal of Information Management***. 
 - **Chen, X\*.,** Chua, A. Y., & Pee, L.G. (2022). [Who sells knowledge online? An exploratory study of knowledge celebrities in China](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1108%2FINTR-07-2020-0378&sa=D&sntz=1&usg=AOvVaw2wgv-dDw5FCykxXAZZaqdA). ***Internet Research***,32(3),916-942. **[Coverage from** [***Information Matters***](https://www.google.com/url?q=https%3A%2F%2Finformationmatters.org%2F2022%2F05%2Fwho-sells-knowledge-online-an-investigation-of-knowledge-celebrities-in-china%2F&sa=D&sntz=1&usg=AOvVaw0XgIJGxNM4C7WTVPtYqsHN)**]**
-- Fu, S., **Chen, X\*.,** Zheng, H., & Ou, M. (2021).[ Understanding health information literacy of mHealth apps users from digital wellbeing perspective: Evidence from regression analysis and fsQCA](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.lisr.2021.101108&sa=D&sntz=1&usg=AOvVaw2YW9iG2zXrttpFCXU9pVD0). ***Library & Information Science Research****, 43*(3), 101108. 
-- Fu, S., **Chen, X.,** & Deng, S*. (2021). [Relating health information literacy self-efficacy to information technology use and health status: A large-scale study among Chinese undergraduates](https://www.google.com/url?q=https%3A%2F%2Fojs.lib.uwo.ca%2Findex.php%2Fcjils%2Farticle%2Fview%2F11012%2F11267&sa=D&sntz=1&usg=AOvVaw16o6rkzSdx1UHZVcqTQZCd). ***Canadian Journal of Information and Library Science****,44* (1): 38-69.
+- Fu, S., **Chen, X\*.,** Zheng, H., & Ou, M. (2021).[ Understanding health information literacy of mHealth apps users from digital wellbeing perspective: Evidence from regression analysis and fsQCA](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.lisr.2021.101108&sa=D&sntz=1&usg=AOvVaw2YW9iG2zXrttpFCXU9pVD0). ***Library & Information Science Research***, *43*(3), 101108. 
+- Fu, S., **Chen, X.,** & Deng, S*. (2021). [Relating health information literacy self-efficacy to information technology use and health status: A large-scale study among Chinese undergraduates](https://www.google.com/url?q=https%3A%2F%2Fojs.lib.uwo.ca%2Findex.php%2Fcjils%2Farticle%2Fview%2F11012%2F11267&sa=D&sntz=1&usg=AOvVaw16o6rkzSdx1UHZVcqTQZCd). **Canadian Journal of Information and Library Science***,*44* (1): 38-69.
 - Fu, S., **Chen, X\*.,** & Zheng, H. (2021). [Exploring an adverse impact of smartphone overuse on academic performance via health issues: A stimulus-organism-response perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F0144929X.2020.1716848&sa=D&sntz=1&usg=AOvVaw0mtjOLtYEsALb0bV_dfKqg). ***Behaviour & Information Technology****,40* (7): 663-675 *.*  ([PPT Slides](https://drive.google.com/file/d/1_23CviQLxQPHFnZwdnR3rirRiYjsdBcT/view?usp=sharing))
-- Li, C., **Chen, X\*.,** & Bi, X*. (2021). [Wearable activity trackers for promoting physical activity: A systematic meta-analytic review](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ijmedinf.2021.104487&sa=D&sntz=1&usg=AOvVaw2r43YbT7p6lRrWUxIB-pay). ***International Journal of Medical Informatics****, 152*, 104487. 
-- Zhao, H., Fu, S., & **Chen, X\*.** (2020). [Promoting users’ intention to share health articles on social media: The role of confirmation bias](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ipm.2020.102354&sa=D&sntz=1&usg=AOvVaw3IcDMjLwS4CFv4x8NrW5E2). ***Information Processing & Management****, 57* (6), 102354. (*Note:* authors have equal contribution; **ASIS&T SIG SM Best Paper Award**) ([Recording of the presentation on YouTube](https://youtu.be/4Qw3dBT9NCY)) ([PPT Slides](https://drive.google.com/file/d/1FiznTYRxDeANzrx6WmmujYBL0vDe2pKA/view?usp=sharing))
-- Chua, A.Y *., & **Chen, X.** (2020). [Rumor retransmission on Twitter: Message characteristics, user characteristics and retransmission outcomes](http://www.google.com/url?q=http%3A%2F%2Fdline.info%2Ffpaper%2Fjdim%2Fv18i1%2Fjdimv18i1_3.pdf&sa=D&sntz=1&usg=AOvVaw0OBlHYo1191xKLzxzur-aU). ***Journal of Digital Information Management****, 18* (1), 21-32.
-- Lou, C., Tan, S. S., & **Chen, X.** (2019). [Investigating consumer engagement with influencer-vs. brand-promoted ads: The roles of source and disclosure](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F15252019.2019.1667928&sa=D&sntz=1&usg=AOvVaw3r99Pqvq2ufZ44Q8AyBa2c). ***Journal of Interactive Advertising****, 19* (3):169-186. 
-- **Chen, X\*.,** Chua, A. Y., & Deng, S. (2018). [Comparing the web and mobile platforms of a social Q&A service from the user’s perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1108%2FAJIM-06-2017-0149&sa=D&sntz=1&usg=AOvVaw2nJwzxdk1bCMtznQ0P4sCx). ***Aslib Journal of Information Management****, 70* (2):176-191. 
-- Deng, S., Lin, Y*., Liu, Y., **Chen, X.,** & Li, H. (2017). [How do personality traits shape information-sharing behaviour in social media? Exploring the mediating effect of generalized trust](http://www.google.com/url?q=http%3A%2F%2Fwww.informationr.net%2Fir%2F22-3%2Fpaper763.html&sa=D&sntz=1&usg=AOvVaw2WVJiZH6H-fNjw0cyAc5AS). ***Information Research****, 22* (3): 1-37. 
+- Li, C., **Chen, X\*.,** & Bi, X*. (2021). [Wearable activity trackers for promoting physical activity: A systematic meta-analytic review](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ijmedinf.2021.104487&sa=D&sntz=1&usg=AOvVaw2r43YbT7p6lRrWUxIB-pay). **International Journal of Medical Informatics**, 152*, 104487. 
+- Zhao, H., Fu, S., & **Chen, X\*.** (2020). [Promoting users’ intention to share health articles on social media: The role of confirmation bias](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1016%2Fj.ipm.2020.102354&sa=D&sntz=1&usg=AOvVaw3IcDMjLwS4CFv4x8NrW5E2). ***Information Processing & Management**, 57* (6), 102354. (*Note:* authors have equal contribution; **ASIS&T SIG SM Best Paper Award**) ([Recording of the presentation on YouTube](https://youtu.be/4Qw3dBT9NCY)) ([PPT Slides](https://drive.google.com/file/d/1FiznTYRxDeANzrx6WmmujYBL0vDe2pKA/view?usp=sharing))
+- Chua, A.Y *., & **Chen, X.** (2020). [Rumor retransmission on Twitter: Message characteristics, user characteristics and retransmission outcomes](http://www.google.com/url?q=http%3A%2F%2Fdline.info%2Ffpaper%2Fjdim%2Fv18i1%2Fjdimv18i1_3.pdf&sa=D&sntz=1&usg=AOvVaw0OBlHYo1191xKLzxzur-aU). **Journal of Digital Information Management**, 18* (1), 21-32.
+- Lou, C., Tan, S. S., & **Chen, X.** (2019). [Investigating consumer engagement with influencer-vs. brand-promoted ads: The roles of source and disclosure](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1080%2F15252019.2019.1667928&sa=D&sntz=1&usg=AOvVaw3r99Pqvq2ufZ44Q8AyBa2c). ***Journal of Interactive Advertising***, *19* (3):169-186. 
+- **Chen, X\*.,** Chua, A. Y., & Deng, S. (2018). [Comparing the web and mobile platforms of a social Q&A service from the user’s perspective](https://www.google.com/url?q=https%3A%2F%2Fdoi.org%2F10.1108%2FAJIM-06-2017-0149&sa=D&sntz=1&usg=AOvVaw2nJwzxdk1bCMtznQ0P4sCx). ***Aslib Journal of Information Management**, 70* (2):176-191. 
+- Deng, S., Lin, Y*., Liu, Y., **Chen, X.,** & Li, H. (2017). [How do personality traits shape information-sharing behaviour in social media? Exploring the mediating effect of generalized trust](http://www.google.com/url?q=http%3A%2F%2Fwww.informationr.net%2Fir%2F22-3%2Fpaper763.html&sa=D&sntz=1&usg=AOvVaw2WVJiZH6H-fNjw0cyAc5AS). **Information Research**, 22* (3): 1-37. 
 
 
 
